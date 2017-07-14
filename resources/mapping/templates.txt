@@ -1,0 +1,5 @@
+REG:firstname[1]+'.'+lastname
+REG:firstname+'.'+lastname
+EXP:'Created by IdentityIQ'
+STB:cn
+PRE:displayName-op3
